@@ -1,0 +1,15 @@
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+مدير الشؤون الطبية,https://i.ibb.co/JkvqJph/download.png,Corporate,/Medic/index,CTO office,"Ceo,tag1,manager,cto",FALSE,Chief Executive Officer ,O-6066,,
+رئيس الاطباء المقيمين,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6067,O-6066,
+معاون المدير الفني لشؤون المشتريات,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6068,O-6066,
+معاون المدير الفني لشؤون العاملين,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6069,O-6066,
+معاون المدير لشؤون الصيدلة و العلاجات,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6070,O-6066,
+معاون المدير لشؤون المختبرات,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6071,O-6066,
+معاون المدير لشؤون التمريض,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6072,O-6066,
+مقيمي الخدج,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6073,O-6067,
+مسؤول المشتريات,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6074,O-6068,
+القسم رقم 1,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6075,O-6069,
+شيرين محمد نورمحمد,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6076,O-6070,
+الهرمونات,https://i.ibb.co/JkvqJph/download.png,Corporate,#,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6077,O-6071,
+قسم الطوارئ,https://i.ibb.co/JkvqJph/download.png,Corporate,/Medic/MainHER,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,O-6078,O-6072,
+
